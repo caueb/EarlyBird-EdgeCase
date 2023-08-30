@@ -1,5 +1,6 @@
 # EarlyBird-EdgeCase
-Early Bird injection retrieving the version of MS Edge from the registry.
+Early Bird injection retrieving the version of MS Edge from the registry.  
+Code for the [post here](https://caueb.com/purple-team-lab/earlybirdedgecase/).
 
 ## Features
 1. Get the target process PID comparing name and checking if integrity is MEDIUM.
